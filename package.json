@@ -5,7 +5,18 @@
   "repository": "https://github.com/dl0312/awesome-javascript",
   "author": "Geon Lee <leegun2003@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=10.16.0"
+  },
   "dependencies": {
+    "dotenv": "^8.0.0",
+    "joi": "^14.3.1",
     "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
   }
 }
