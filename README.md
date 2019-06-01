@@ -174,3 +174,15 @@ $ git push -u origin issue/1
 ## README.md
 ### Link
 * [The example of README.md](https://github.com/stunstunstun/awesome-javascript/blob/master/README.md)
+
+## Setting Test Environment with Jest
+### Create Test Code
+```
+$ mkdir __tests__ lib
+$ touch __tests__/github.test.js
+```
+
+### Link
+* [GitHub REST API v3](https://developer.github.com/v3/)
+* [Jest](https://jestjs.io/)
+* [Jest-Getting Started](https://jestjs.io/docs/en/getting-started)
