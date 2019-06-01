@@ -180,6 +180,8 @@ $ git push -u origin issue/1
 ```
 $ mkdir __tests__ lib
 $ touch __tests__/github.test.js
+$ touch lib/github.js
+$ yarn test
 ```
 
 ### Link
