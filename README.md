@@ -5,6 +5,50 @@
 * [간단하게 구축해 보는 JavaScript 개발 환경](https://d2.naver.com/helloworld/2564557)
 * [Tutorial Repository](https://github.com/stunstunstun/awesome-javascript)
 
+## Getting Started
+
+### Prerequisites
+
+| Required                             | Description                                                               |
+| ------------------------------------ | ------------------------------------------------------------------------- |
+| [Git](https://git-scm.com/)          | We follow the [GitHub Flow](https://guides.github.com/introduction/flow/) |
+| [Node.js](nodejs.org)                | 10.16.0 LTS                                                               |
+| [Yarn](https://yarnpkg.com/lang/en/) | 1.16.0 or above                                                           |
+
+### Install Node, Yarn
+
+The project manages the version of node through `nvm`.
+
+```
+$ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
+$ command -v nvm
+$ nvm install 10.16.0
+$ which node
+$ npm install -g yarn
+```
+
+In the project root as follows are performed through the `.nvmrc`
+
+```
+$ nvm use
+...
+```
+
+## Yarn CLIs
+
+### Install project
+
+```bash
+$ nvm use
+$ yarn install
+```
+
+### Test
+
+```bash
+$ yarn test
+```
+
 ## Create Git Repository
 ### Command
 ```
@@ -126,3 +170,7 @@ $ git push -u origin issue/1
 ### Link
 * [.gitignore](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring)
 * [The example of pull request](https://github.com/stunstunstun/awesome-javascript/pull/2)
+
+## README.md
+### Link
+* [The example of README.md](https://github.com/stunstunstun/awesome-javascript/blob/master/README.md)
