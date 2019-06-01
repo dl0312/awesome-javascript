@@ -188,3 +188,14 @@ $ yarn test
 * [GitHub REST API v3](https://developer.github.com/v3/)
 * [Jest](https://jestjs.io/)
 * [Jest-Getting Started](https://jestjs.io/docs/en/getting-started)
+
+## Automate testing with Travis CI
+### Delegated tasks for Travis CI
+* Verification of [Code Convention](https://google.github.io/styleguide/jsguide.html) with [ESLint](https://eslint.org/)
+* Automate testing with best practices
+### Link
+* [Jenkins](https://jenkins.io/)
+* [Travis CI](https://travis-ci.org/)
+* [Travis CI Tutorial](https://docs.travis-ci.com/user/tutorial/)
+* [Code Convention](https://google.github.io/styleguide/jsguide.html)
+* [ESLint](https://eslint.org/)
