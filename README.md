@@ -1,10 +1,10 @@
 # awesome-javascript
 👨‍💻 let's simply set up JavaScript development environment
-asdfasdf
+
 ## Tutorial
-* [간단하게 구축해 보는 JavaScript 개발 환경](https://d2.naver.com/helloworld/2564557)ddddddd
+* [간단하게 구축해 보는 JavaScript 개발 환경](https://d2.naver.com/helloworld/2564557)
 * [Tutorial Repository](https://github.com/stunstunstun/awesome-javascript)
-aaa
+
 ## Getting Started
 
 ### Prerequisites
